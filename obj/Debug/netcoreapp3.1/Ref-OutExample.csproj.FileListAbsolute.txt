@@ -1,0 +1,14 @@
+D:\eğitim\c#\Arrays-Methods\Ref-OutExample\obj\Debug\netcoreapp3.1\Ref-OutExample.csproj.AssemblyReference.cache
+D:\eğitim\c#\Arrays-Methods\Ref-OutExample\obj\Debug\netcoreapp3.1\Ref-OutExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\eğitim\c#\Arrays-Methods\Ref-OutExample\obj\Debug\netcoreapp3.1\Ref-OutExample.AssemblyInfoInputs.cache
+D:\eğitim\c#\Arrays-Methods\Ref-OutExample\obj\Debug\netcoreapp3.1\Ref-OutExample.AssemblyInfo.cs
+D:\eğitim\c#\Arrays-Methods\Ref-OutExample\obj\Debug\netcoreapp3.1\Ref-OutExample.csproj.CoreCompileInputs.cache
+D:\eğitim\c#\Arrays-Methods\Ref-OutExample\bin\Debug\netcoreapp3.1\Ref-OutExample.exe
+D:\eğitim\c#\Arrays-Methods\Ref-OutExample\bin\Debug\netcoreapp3.1\Ref-OutExample.deps.json
+D:\eğitim\c#\Arrays-Methods\Ref-OutExample\bin\Debug\netcoreapp3.1\Ref-OutExample.runtimeconfig.json
+D:\eğitim\c#\Arrays-Methods\Ref-OutExample\bin\Debug\netcoreapp3.1\Ref-OutExample.runtimeconfig.dev.json
+D:\eğitim\c#\Arrays-Methods\Ref-OutExample\bin\Debug\netcoreapp3.1\Ref-OutExample.dll
+D:\eğitim\c#\Arrays-Methods\Ref-OutExample\bin\Debug\netcoreapp3.1\Ref-OutExample.pdb
+D:\eğitim\c#\Arrays-Methods\Ref-OutExample\obj\Debug\netcoreapp3.1\Ref-OutExample.dll
+D:\eğitim\c#\Arrays-Methods\Ref-OutExample\obj\Debug\netcoreapp3.1\Ref-OutExample.pdb
+D:\eğitim\c#\Arrays-Methods\Ref-OutExample\obj\Debug\netcoreapp3.1\Ref-OutExample.genruntimeconfig.cache
